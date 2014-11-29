@@ -1,4 +1,4 @@
-streaming-media
+nginx-streaming-media
 ===============
 
 Generate new streaming file according to the seconds. Implement as nginx plugin.
